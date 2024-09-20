@@ -7,8 +7,20 @@
 <h2>Skills 💪</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,js,vue,java,html,css,tailwind,bootstrap,docker,mysql,linux,windows,git" />
   </a>
+
+<h2>Tools</h2>
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=phpstorm,pycharm,idea,vscode,postman,github" />
+  </a>
+
+  <h2>Projects</h2>
+  <ul>
+    <li>
+      <a href=https://github.com/Wpawlina/Notatki.pl>Notatki.pl</a>
+    </li>
+  </ul>
 
 
 
