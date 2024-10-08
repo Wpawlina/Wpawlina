@@ -12,7 +12,7 @@
 
 <h2>Tools</h2>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=phpstorm,pycharm,idea,vscode,postman,github" />
+    <img src="https://skillicons.dev/icons?i=phpstorm,pycharm,idea,vscode,postman,git,github" />
   </a>
 
   <h2>Projects</h2>
