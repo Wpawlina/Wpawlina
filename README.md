@@ -30,6 +30,32 @@
     </li>
   </ul>
 
+  <h2>Cources</h2>
+    <ul>
+     <li>
+       <a href=https://github.com/Wpawlina/AGH-WebDevelopment-Course>AGH Web development</a> 
+    </li>
+    <li>
+       <a href=https://github.com/Wpawlina/AGH-DSA-Course>AGH Data structures & algorithms</a> 
+    </li>
+    <li> 
+      <a href=https://github.com/Wpawlina/AGH-Functional-Programming-Course>AGH Functional programming</a> </li>
+    <li>  
+      <a href=https://github.com/Wpawlina/AGH-C-Course>AGH Imperative programming</a>
+    </li>
+     <li>
+       <a href=https://github.com/Wpawlina/JavaScript-Cources>JavaScript</a> 
+    </li>
+    <li>
+       <a href=https://github.com/Wpawlina/Python-Cources>Python</a> 
+    </li>
+    <li>
+       <a href=https://github.com/Wpawlina/AGH-ITCS-Course>AGH Introduction to computer science</a> 
+    </li>
+      
+  </ul>
+  
+
 
 
 
