@@ -18,7 +18,10 @@
   <h2>Projects</h2>
   <ul>
     <li>
-      <a href=https://github.com/Wpawlina/Notatki.pl>Notatki.pl</a>
+       <a href=https://github.com/Wpawlina/Darwin-project>Darwin World Simulation</a> 
+       <a href=https://github.com/Wpawlina/aurora-gem>Aurora Gem</a> 
+       <a href=https://github.com/Wpawlina/Notatki.pl>Notatki.pl</a>
+       <a href=https://github.com/Wpawlina/FEM-Acoustic-Material-Vibrations>FEM differential equation solver</a> 
     </li>
   </ul>
 
