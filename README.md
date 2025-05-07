@@ -33,7 +33,7 @@
   <h2>Cources</h2>
     <ul>
     <li>
-       <a href=https:https://github.com/Wpawlina/AGH_Objective_Programming_Course>AGH Objective Programming</a> 
+       <a href=https://github.com/Wpawlina/AGH_Objective_Programming_Course>AGH Objective Programming</a> 
     </li>
      <li>
        <a href=https://github.com/Wpawlina/AGH-WebDevelopment-Course>AGH Web Development</a> 
