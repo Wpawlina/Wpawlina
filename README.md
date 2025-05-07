@@ -41,8 +41,6 @@
     <li>
        <a href=https://github.com/Wpawlina/AGH-DSA-Course>AGH Data Structures & Algorithms</a> 
     </li>
-    
-  
     <li> 
       <a href=https://github.com/Wpawlina/AGH-Functional-Programming-Course>AGH Functional Programming</a> </li>
     <li>  
