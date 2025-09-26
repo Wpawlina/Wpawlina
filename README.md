@@ -23,6 +23,9 @@
     <li> 
       <a href=https://github.com/Wpawlina/aurora-gem>Aurora Gem</a> 
     </li>
+    <li> 
+      <a href=https://github.com/Wpawlina/Rust-Showcase>Rust Showcase</a> 
+    </li>
     <li>
        <a href=https://github.com/Wpawlina/NeonVault>NeonVault</a> 
     </li>
