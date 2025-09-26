@@ -7,12 +7,12 @@
 <h2>Skills 💪</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,js,ts,vue,react,java,cpp,html,css,tailwind,bootstrap,docker,mysql,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=aws,k8s,docker,terraform,mysql,postgres,mongodb,linux,windows,python,java,cpp,js,ts,php,laravel,react,html,css,tailwind" />
   </a>
 
 <h2>Tools</h2>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,phpstorm,pycharm,idea,vscode,postman,github" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,phpstorm,pycharm,idea,vscode,postman," />
   </a>
 
   <h2>Projects</h2>
@@ -21,8 +21,12 @@
        <a href=https://github.com/Wpawlina/Darwin-project>Darwin World Simulation</a> 
     </li>
     <li> 
-      <a href=https://github.com/Wpawlina/aurora-gem>Aurora Gem</a> </li>
-    <li>  
+      <a href=https://github.com/Wpawlina/aurora-gem>Aurora Gem</a> 
+    </li>
+    <li>
+       <a href=https://github.com/Wpawlina/NeonVault>NeonVault</a> 
+    </li>
+    <li>
       <a href=https://github.com/Wpawlina/Notatki.pl>Notatki.pl</a>
     </li>
     <li>
