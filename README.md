@@ -7,7 +7,7 @@
 <h2>Skills 💪</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,k8s,docker,terraform,mysql,postgres,mongodb,linux,windows,python,java,cpp,js,ts,php,laravel,react,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=aws,k8s,docker,terraform,mysql,postgres,mongodb,linux,windows,python,java,rust,cpp,js,ts,php,laravel,react,html" />
   </a>
 
 <h2>Tools</h2>
