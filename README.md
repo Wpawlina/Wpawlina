@@ -39,6 +39,9 @@
 
   <h2>Cources</h2>
     <ul>
+     <li>
+       <a href=https://github.com/Wpawlina/AGH_System_Programming_Course>AGH System Programming</a> 
+     </li>
     <li>
        <a href=https://github.com/Wpawlina/AGH_Objective_Programming_Course>AGH Objective Programming</a> 
     </li>
